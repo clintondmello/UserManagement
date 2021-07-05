@@ -1,6 +1,5 @@
 import "../node_modules/bootstrap/dist/css/bootstrap.css";
 import Home from "./components/pages/Home";
-// import NavBar from "./components/layout/Navbar";
 import NavBar from "./components/layout/Navbar.js";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import About from "./components/pages/About";
